@@ -1,7 +1,7 @@
 #!/usr/bin/python
 
 """
-This program runs a query agains the ProofPoint and  blocked database to
+This program runs a query against the ProofPoint and  blocked database to
 check if our MTA servers are listed.
 """
 
