@@ -6,6 +6,7 @@ check whther the MTA list servers are listed and send alerts to VictorOps
 check_dnsbl.py [options]
 
   Options:
+      
       -h --help         Prints this
       
       -s --standalone   Disable VictorOps Notification
